@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-project-3-reviews/static/css/main.4b0d99f9.css",
+    "main.js": "/react-project-3-reviews/static/js/main.5c350139.js",
+    "static/js/787.5a1e3ba1.chunk.js": "/react-project-3-reviews/static/js/787.5a1e3ba1.chunk.js",
+    "index.html": "/react-project-3-reviews/index.html",
+    "main.4b0d99f9.css.map": "/react-project-3-reviews/static/css/main.4b0d99f9.css.map",
+    "main.5c350139.js.map": "/react-project-3-reviews/static/js/main.5c350139.js.map",
+    "787.5a1e3ba1.chunk.js.map": "/react-project-3-reviews/static/js/787.5a1e3ba1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b0d99f9.css",
+    "static/js/main.5c350139.js"
+  ]
+}
